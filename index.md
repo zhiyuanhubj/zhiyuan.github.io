@@ -27,7 +27,7 @@ I am a R&D engineer in natural language processing working with [Prof. Zhang Ric
 ## Services
 
 - LDC(Linguistic data consortium) Administrator in Beihang University
-- Organizator of “AAAI-2019 and AAAI-2022 Chinese seminar”
+- Organizator of “AAAI-2019 and AAAI-2022 Chinese Seminar”
 
 ## Honors
 
