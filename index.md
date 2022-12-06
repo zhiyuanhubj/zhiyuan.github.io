@@ -1,14 +1,16 @@
 
 ## About Me
 
-I am a PhD student in NUS IDS work with [Bryan HOOI](https://www.comp.nus.edu.sg/cs/people/bhooi/) and  [Luu Anh Tuan](https://tuanluu.github.io/)(NTU). Meanwhile, I am visisting UCL WI group cooperating with [Aldo Lipani](https://aldolipani.com/). Previously, I worked as a R&D engineer in natural language processing working with [Prof. Zhang Richong](http://act.buaa.edu.cn/zhangrc/), affiliated with [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) and [Computer Science College](http://scse.buaa.edu.cn/) in [Beihang University](www.buaa.edu.cn). My current research interests lie in Information Extraction and Question Answering. You can also find me in [Google Scholar Personal Page](https://scholar.google.com/citations?hl=en&user=gQ1t5EUAAAAJ)
+I am a PhD student in NUS IDS work with [Bryan HOOI](https://www.comp.nus.edu.sg/cs/people/bhooi/) and  [Luu Anh Tuan](https://tuanluu.github.io/)(NTU). Meanwhile, I am visisting UCL WI group cooperating with [Aldo Lipani](https://aldolipani.com/). Previously, I worked as a R&D engineer in natural language processing working with [Prof. Zhang Richong](http://act.buaa.edu.cn/zhangrc/), affiliated with [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) and [Computer Science College](http://scse.buaa.edu.cn/) in [Beihang University](www.buaa.edu.cn). My current research interests lie in Information Extraction, Dialogue System and Question Answering. You can also find me in [Google Scholar Personal Page](https://scholar.google.com/citations?hl=en&user=gQ1t5EUAAAAJ)
 
 
 ## Experience
 
 - 2015.09 - 2019.07 ｜Undergraduate  ｜ Beijing University of Chemical Technology, Colloge Information Science and Technology
 - 2017.07 - 2019.07 ｜Research Intern｜ Beihang University, Beijing Advanced Innovation Center for Big Data and Brain Computing 
-- 2019.07 - Current ｜R & D Engineer ｜ Beihang University, Beijing Advanced Innovation Center for Big Data and Brain Computing
+- 2019.07 - 2022.09 ｜R & D Engineer ｜ Beihang University, Beijing Advanced Innovation Center for Big Data and Brain Computing
+- 2022.09 - Current ｜Visiting Researcher ｜ University College London, Web Intelligence Group(UCL AI Centre)
+- 2023.01 - Current ｜PhD Student    ｜ National University of Singapore, Institute of Data Science and School of Computing
 
 
 ## Publications
@@ -28,8 +30,11 @@ I am a PhD student in NUS IDS work with [Bryan HOOI](https://www.comp.nus.edu.sg
 
 - LDC(Linguistic data consortium) Administrator in Beihang University
 - Organizator of “AAAI-2019 and AAAI-2022 Chinese Seminar”
+- Reviewer: ACL22, AACL22, COLING22
+- PC member: IJCAI23
 
 ## Honors
+- NUS President's Graduate Fellowship (PGF)
 
 ## Talks
 
