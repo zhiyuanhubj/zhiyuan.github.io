@@ -30,7 +30,7 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 
 - LDC(Linguistic data consortium) Administrator in Beihang University
 - Organizator of “AAAI-2019 and AAAI-2022 Chinese Seminar”
-- Reviewer: ACL22, AACL22, COLING22,ACL23, IJCAI23
+- Reviewer: ACL22, AACL22, COLING22,ACL23, SIGIR23
 - TA: CS4248 Natural Language Processing, CS5228 Knowledge Discovery and Data Mining
 
 ## Honors
