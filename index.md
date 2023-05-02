@@ -8,17 +8,19 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 
 - 2017.07 - 2019.07 ｜Research Intern｜ Beihang University, Beijing Advanced Innovation Center for Big Data and Brain Computing 
 - 2019.07 - 2022.09 ｜R & D Engineer ｜ Beihang University, Beijing Advanced Innovation Center for Big Data and Brain Computing
-- 2022.09 - Current ｜Visiting Researcher ｜ University College London, Web Intelligence Group(UCL AI Centre)
+- 2022.09 - 2023.01 ｜Visiting Researcher ｜ University College London, Web Intelligence Group(UCL AI Centre)
 - 2023.01 - Current ｜PhD Student    ｜ National University of Singapore, Institute of Data Science and School of Computing
 
 
 ## Publications
 
-- R. Zhang, Z. Hu, H. Guo, and Y. Mao, Syntax Encoding with Application in Authorship Attribution, EMNLP 2018 [Code](https://github.com/BDBC-KG-NLP/Syntax-Encoding_EMNLP2018) [Paper](https://aclanthology.org/D18-1294.pdf)
-- R. Zhang, X. Liu, X. Chen, Z. Hu, Z. Xu, and Y. Mao, “Generating Chinese Ci with Designated Metrical Structure, AAAI 2019 [Code](https://github.com/BDBC-KG-NLP/Generating-Chinese-Ci_AAAI2019) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4736/4614)
-- F. Kong, R. Zhang, H. Guo, S. Mensah, Z. Hu, and Y. Mao, A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity, WWWW 2019 [Code]() [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313550)
-- R. Zhang, S. Mensah, F. Kong, Z. Hu, Y. Mao, and X. Liu, Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities, ACM TOIS 2020 [Code]() [Paper](https://dl.acm.org/doi/pdf/10.1145/3406116)
-- Two Comming Papers are under reviewed in ACL23
+- Fanghua Ye, Zhiyuan Hu, Emine Yilmaz. Modeling User Satisfaction Dynamics in Dialogue via Hawkes Process. ACL 2023
+- Zhiyuan Hu, Chumin Liu, Yue Feng. PoetryDiffusion: Towards Joint Semantic and Metrical Manipulation in Poetry Generation.
+- Richong Zhang, Samuel Mensah, Fanshuang Kong, Zhiyuan Hu, Yongyi Mao, and Xudong Liu, Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities, ACM TOIS 2020 [Code]() [Paper](https://dl.acm.org/doi/pdf/10.1145/3406116)
+- Richong Zhang, X. Liu, X. Chen, Z. Hu, Z. Xu, and Yiyong Mao, “Generating Chinese Ci with Designated Metrical Structure, AAAI 2019 [Code](https://github.com/BDBC-KG-NLP/Generating-Chinese-Ci_AAAI2019) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4736/4614)
+- Fanshuang Kong, Richong Zhang, Hongyu Guo, Samuel Mensah, Zhiyuan Hu, and Yongyi Mao, A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity, WWWW 2019 [Code]() [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313550)
+- Richong Zhang, Zhiyuan Hu, Hongyu Guo, and Yongyi Mao, Syntax Encoding with Application in Authorship Attribution, EMNLP 2018 [Code](https://github.com/BDBC-KG-NLP/Syntax-Encoding_EMNLP2018) [Paper](https://aclanthology.org/D18-1294.pdf)
+
 
 ## Projects and Platforms
 
