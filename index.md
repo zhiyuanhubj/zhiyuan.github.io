@@ -19,7 +19,7 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 - Richong Zhang, Zhiyuan Hu, Hongyu Guo, and Yongyi Mao, Syntax Encoding with Application in Authorship Attribution, EMNLP 2018 [Code](https://github.com/BDBC-KG-NLP/Syntax-Encoding_EMNLP2018) [Paper](https://aclanthology.org/D18-1294.pdf)
 - Richong Zhang, Samuel Mensah, Fanshuang Kong, Zhiyuan Hu, Yongyi Mao, and Xudong Liu, Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities, ACM TOIS 2020 [Code]() [Paper](https://dl.acm.org/doi/pdf/10.1145/3406116)
 - Richong Zhang, X. Liu, X. Chen, Zhiyuan Hu, Zhaoqing Xu, and Yiyong Mao, “Generating Chinese Ci with Designated Metrical Structure, AAAI 2019 [Code](https://github.com/BDBC-KG-NLP/Generating-Chinese-Ci_AAAI2019) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4736/4614)
-- Fanshuang Kong, Richong Zhang, Hongyu Guo, Samuel Mensah, Zhiyuan Hu, and Yongyi Mao, A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity, WWWW 2019 [Code]() [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313550)
+- Fanshuang Kong, Richong Zhang, Hongyu Guo, Samuel Mensah, Zhiyuan Hu, and Yongyi Mao, A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity, WWW 2019 [Code]() [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313550)
 
 
 
