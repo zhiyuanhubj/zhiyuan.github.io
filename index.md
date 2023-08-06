@@ -13,8 +13,8 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 
 
 ## Publications
-- Zhiyuan Hu, Yue Feng, Anh Tuan Luu, Bryan Hooi, Aldo Lipani. Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulator to Enhance Dialogue System. [Paper](https://arxiv.org/abs/2306.09821)
-- Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi. Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs. [Paper]()
+- Zhiyuan Hu, Yue Feng, Anh Tuan Luu, Bryan Hooi, Aldo Lipani. Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulator to Enhance Dialogue System, CIKM 2023  [Paper](https://arxiv.org/abs/2306.09821)
+- Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi. Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs. [Paper](https://arxiv.org/abs/2306.13063)
 - Fanghua Ye, Zhiyuan Hu, Emine Yilmaz. Modeling User Satisfaction Dynamics in Dialogue via Hawkes Process. ACL 2023 [Paper](https://arxiv.org/abs/2305.12594)
 - Zhiyuan Hu, Chumin Liu, Yue Feng. PoetryDiffusion: Towards Joint Semantic and Metrical Manipulation in Poetry Generation. [Paper](https://arxiv.org/abs/2306.08456)
 - Richong Zhang, Zhiyuan Hu, Hongyu Guo, and Yongyi Mao, Syntax Encoding with Application in Authorship Attribution, EMNLP 2018 [Code](https://github.com/BDBC-KG-NLP/Syntax-Encoding_EMNLP2018) [Paper](https://aclanthology.org/D18-1294.pdf)
