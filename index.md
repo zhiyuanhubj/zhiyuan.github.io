@@ -13,6 +13,7 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 
 
 ## Publications
+- Zhiyuan Hu, Yue Feng, Yang Deng, Zekun Li, See-Kiong Ng, Anh Tuan Luu, Bryan Hooi. Enhancing Large Language Model Induced Task-Oriented Dialogue Systems Through Look-Forward Motivated Goals.
 - Zhiyuan Hu, Yue Feng, Anh Tuan Luu, Bryan Hooi, Aldo Lipani. Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulator to Enhance Dialogue System, CIKM 2023  [Paper](https://arxiv.org/abs/2306.09821)
 - Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi. Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs. [Paper](https://arxiv.org/abs/2306.13063)
 - Fanghua Ye, Zhiyuan Hu, Emine Yilmaz. Modeling User Satisfaction Dynamics in Dialogue via Hawkes Process. ACL 2023 [Paper](https://arxiv.org/abs/2305.12594)
