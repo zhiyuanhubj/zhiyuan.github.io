@@ -13,6 +13,8 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 
 
 ## Publications
+- Zhiyuan Hu, Chumin Liu, Xidong Feng, Yilun Zhao, See-Kiong Ng, Junxian He, Anh Tuan Luu, Bryan Hooi. Planning and Reasoning Can Guide Large Language Models in Making Decision Under Uncertainty.
+- Lin Xu*, Zhiyuan Hu*, Daquan Zhou, Hongyu Ren, Zhen Dong, Kurt Keutze, See-Kiong Ng, Jiashi Feng. MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Audaptabiulity, Ratiuonality and Cuollaboration. [Paper](https://arxiv.org/abs/2311.08562) *Equal Contribution
 - Zhiyuan Hu, Yue Feng, Yang Deng, Zekun Li, See-Kiong Ng, Anh Tuan Luu, Bryan Hooi. Enhancing Large Language Model Induced Task-Oriented Dialogue Systems Through Look-Forward Motivated Goals.
 - Zhiyuan Hu, Yue Feng, Anh Tuan Luu, Bryan Hooi, Aldo Lipani. Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulator to Enhance Dialogue System, CIKM 2023  [Paper](https://arxiv.org/abs/2306.09821)
 - Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi. Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs. [Paper](https://arxiv.org/abs/2306.13063)
@@ -44,5 +46,9 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 ## Talks
 - The latest Development of Language Model, Beihang Unviersity, Feb 2023
 
+<!-- 插入 Flag Counter -->
+<a href="https://info.flagcounter.com/8A6L">
+    <img src="https://s01.flagcounter.com/count/8A6L/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+</a>
 
 
