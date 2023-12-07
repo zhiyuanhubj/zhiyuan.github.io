@@ -1,14 +1,14 @@
 
 ## About Me
 
-I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.edu.sg/cs/people/bhooi/), [See Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/) and  [Luu Anh Tuan](https://tuanluu.github.io/)(NTU). Meanwhile, I am visisting [UCL WI group](https://wi.cs.ucl.ac.uk/) cooperating with [Aldo Lipani](https://aldolipani.com/) and [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). Previously, I worked as a R&D engineer in natural language processing working with [Prof. Zhang Richong](http://act.buaa.edu.cn/zhangrc/), affiliated with [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) and [Computer Science College](http://scse.buaa.edu.cn/) in [Beihang University](www.buaa.edu.cn). My current research interests lie in LLM applications on task-oriented dialogue system, reasoning and calibration capability of LLM. You can also find me in [Google Scholar Personal Page](https://scholar.google.com/citations?hl=en&user=gQ1t5EUAAAAJ)
+I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.edu.sg/cs/people/bhooi/), [See Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/) and  [Luu Anh Tuan](https://tuanluu.github.io/)(NTU). Previously I visisted [UCL WI group](https://wi.cs.ucl.ac.uk/) cooperating with [Aldo Lipani](https://aldolipani.com/) and [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). Before that I worked as a R&D engineer in natural language processing working with [Prof. Zhang Richong](http://act.buaa.edu.cn/zhangrc/), affiliated with [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) and [Computer Science College](http://scse.buaa.edu.cn/) in [Beihang University](www.buaa.edu.cn). My current research interests lie in LLM applications on task-oriented dialogue system, reasoning and calibration capability of LLM. You can also find me in [Google Scholar Personal Page](https://scholar.google.com/citations?hl=en&user=gQ1t5EUAAAAJ)
 
 
 ## Experience
 
 - 2017.07 - 2019.07 ｜Research Intern｜ Beihang University, Beijing Advanced Innovation Center for Big Data and Brain Computing 
 - 2019.07 - 2022.09 ｜R & D Engineer ｜ Beihang University, Beijing Advanced Innovation Center for Big Data and Brain Computing
-- 2022.09 - 2023.01 ｜Visiting Researcher ｜ University College London, Web Intelligence Group(UCL AI Centre)
+- 2022.09 - 2023.04 ｜Visiting Researcher ｜ University College London, Web Intelligence Group(UCL AI Centre)
 - 2023.01 - Current ｜PhD Student    ｜ National University of Singapore, Institute of Data Science and School of Computing
 
 
@@ -45,6 +45,8 @@ I am a PhD student in NUS IDS&SoC work with [Bryan Hooi](https://www.comp.nus.ed
 
 ## Talks
 - The latest Development of Language Model, Beihang Unviersity, Feb 2023
+- MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Audaptabiulity, Ratiuonality and Cuollaboration, AgentX, Dec 2023
+- Techniques in Longtext Generation, Docnote, Dec, 2023
 
 <!-- 插入 Flag Counter -->
 <a href="https://info.flagcounter.com/8A6L">
